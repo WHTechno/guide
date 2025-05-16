@@ -1,4 +1,4 @@
-# WHTech Documentation
+# WHTech Docs
 
 Official documentation for Mainnet and Testnet guides on the WHTech network.  
 Designed to be easily synchronized with GitBook for seamless publishing.
