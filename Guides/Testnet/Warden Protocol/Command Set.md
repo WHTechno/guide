@@ -1,4 +1,4 @@
-#🔍 Useful Commands
+# 🔍 Useful Commands
 ## Check node status
 ```
 wardend status
