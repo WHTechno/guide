@@ -1,5 +1,5 @@
 
-# Axone Testnet Node Installation Guide
+# Axone Mainnet Node Installation Guide
 
 ## 🔧 Prerequisites
 Update system and install dependencies:
